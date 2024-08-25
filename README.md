@@ -1,1 +1,1 @@
-# cs330
+This course was about designing and creating a 3D scene using OpenGL and C++. My scene was that of a desk with a monitor, a can of soda, and a sphere for light. The basic shapes used were a box, plane, sphere, pyrimid, and cylinder. 
